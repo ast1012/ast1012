@@ -41,7 +41,7 @@
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ast1012&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ast1012&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
@@ -50,7 +50,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://profile-counter.glitch.me/ast1012/count.svg" />
 </p>
 
 <!-- can't stop myself from editing🤷... -->
